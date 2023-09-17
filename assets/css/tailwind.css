@@ -950,6 +950,14 @@ video {
   width: 3.5rem;
 }
 
+.w-11{
+  width: 2.75rem;
+}
+
+.w-52{
+  width: 13rem;
+}
+
 .max-w-full{
   max-width: 100%;
 }
@@ -2151,6 +2159,14 @@ body {
 
   .sm\:w-52{
     width: 13rem;
+  }
+
+  .sm\:w-auto{
+    width: auto;
+  }
+
+  .sm\:w-40{
+    width: 10rem;
   }
 
   .sm\:grid-cols-3{
